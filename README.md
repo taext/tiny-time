@@ -15,7 +15,7 @@ Might find use in creative minds, tight spaces, repetitive tasks, and geeky watc
 
  
 
-Z-Y NOTATION
+###Z-Y NOTATION
 
  
 
@@ -27,7 +27,8 @@ Z-Y Notation is base 25, lining everything up nicely with the English alphabet:
          51 is '9', 59 is '1' (minutes only: 'nine minutes to' and 'one minute to')
  
 
-FILES
+
+###FILES
 
  
 
@@ -35,7 +36,7 @@ ttime34 (Windows) - Simple command-line clock implementation. Accepts zero, one 
 
  
 
-HOW TO USE
+###HOW TO USE
 
  
 
@@ -60,7 +61,8 @@ C:\ytime\ttime34 3 1
     bA:p
  
 
-PROJECT STATUS
+
+###PROJECT STATUS
 
  
 
