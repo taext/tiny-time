@@ -30,17 +30,13 @@ Z-Y Notation is base 25, lining everything up nicely with the English alphabet:
 
 ###FILES
 
- 
-
 ttime34 (Windows) - Simple command-line clock implementation. Accepts zero, one or two arguments, to cut characters from left or right, respectively.
 
  
 
 ###HOW TO USE
 
- 
-
-####Full Time
+#####Full Time
 
 C:\ytime\ttime34
 
@@ -54,7 +50,7 @@ C:\ytime\ttime34 3
     bA:pk
  
 
-Implicit Minutes
+#####Implicit Minutes
 
 C:\ytime\ttime34 3 1
 
@@ -63,8 +59,6 @@ C:\ytime\ttime34 3 1
 
 
 ###PROJECT STATUS
-
- 
 
 Simple CLI clock - done (26st Feb. '16)
 
