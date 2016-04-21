@@ -9,8 +9,7 @@ Tiny Time™ is a short form time notation for hackers and painters: 1-5 charact
 Might find use in creative minds, tight spaces, repetitive tasks, and geeky watches.
 
  
-
-p_bA:pa
+         p_bA:pa
 
 (26th of February '16 @ 16:01)
 
@@ -22,10 +21,10 @@ Z-Y NOTATION
 
 Z-Y Notation is base 25, lining everything up nicely with the English alphabet:
 
-'a' through 'y' is 1-25
-Zero is 'z'
-'A' through 'Y' is 26-50
-51 is '9', 59 is '1' (minutes only: 'nine minutes to' and 'one minute to')
+        'a' through 'y' is 1-25
+         Zero is 'z'
+        'A' through 'Y' is 26-50
+         51 is '9', 59 is '1' (minutes only: 'nine minutes to' and 'one minute to')
  
 
 FILES
