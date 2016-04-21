@@ -55,6 +55,13 @@ C:\ytime\ttime34 3
 C:\ytime\ttime34 3 1
 
     bA:p
+    
+    
+ #####Day & Hour
+
+C:\ytime\ttime34 4 1
+
+    A:p
  
 
 #####Creative Time
