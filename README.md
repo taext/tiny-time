@@ -40,14 +40,14 @@ ttime34 (Windows) - Simple command-line clock implementation. Accepts zero, one 
 
  
 
-Full Time
+####Full Time
 
 C:\ytime\ttime34
 
     tp_bA:pj
  
 
-Implicit Year
+#####Implicit Year
 
 C:\ytime\ttime34 3
 
