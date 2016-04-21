@@ -42,19 +42,22 @@ HOW TO USE
 Full Time
 
 C:\ytime\ttime34
-tp_bA:pj
+
+    tp_bA:pj
  
 
 Implicit Year
 
 C:\ytime\ttime34 3
-bA:pk
+
+    bA:pk
  
 
 Implicit Minutes
 
 C:\ytime\ttime34 3 1
-bA:p
+
+    bA:p
  
 
 PROJECT STATUS
