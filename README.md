@@ -1,6 +1,6 @@
 
 
-#TINY TIME
+# TINY TIME
 
  
 
@@ -15,7 +15,7 @@ Might find use in creative minds, tight spaces, repetitive tasks, and geeky watc
 
  
 
-###Z-Y NOTATION
+### Z-Y NOTATION
 
  
 
@@ -28,29 +28,29 @@ Z-Y Notation is base 25, lining everything up nicely with the English alphabet:
  
 
 
-###FILES
+### FILES
 
 ttime34 (Windows) - Simple command-line clock implementation. Accepts zero, one or two arguments, to cut characters from left or right, respectively.
 
  
 
-###HOW TO USE
+### HOW TO USE
 
-#####Full Time
+##### Full Time
 
 C:\ytime\ttime34
 
     tp_bA:pj
  
 
-#####Implicit Year
+##### Implicit Year
 
 C:\ytime\ttime34 3
 
     bA:pk
  
 
-#####Implicit Minutes
+##### Implicit Minutes
 
 C:\ytime\ttime34 3 1
 
@@ -58,21 +58,21 @@ C:\ytime\ttime34 3 1
     
     
  
-#####Day & Hour
+##### Day & Hour
 
 C:\ytime\ttime34 4 1
 
     A:p
  
 
-#####Creative Time
+##### Creative Time
 
 C:\ytime\ttime34 5 1
 
     :p
 
 
-###PROJECT STATUS
+### PROJECT STATUS
 
 Simple CLI clock - done (26st Feb. '16)
 
