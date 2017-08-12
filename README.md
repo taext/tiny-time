@@ -19,7 +19,7 @@ Might find use in creative minds, tight spaces, repetitive tasks, and geeky watc
 
  
 
-Z-Y Notation is base 25, lining everything up nicely with the English alphabet:
+Z-Y Notation is base 60, lining everything up nicely with the English alphabet twice:
 
         'a' through 'y' is 1-25
          Zero is 'z'
