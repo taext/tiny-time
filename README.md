@@ -4,7 +4,7 @@
 
  
 
-Tiny Time™ is a short-form time notation for hackers and painters: 1-5 characters of length.
+Tiny Time is a short-form time notation for hackers and painters: 1-5 characters of length.
 
 Might find use in creative minds, tight spaces, repetitive tasks, and geeky watches.
 
