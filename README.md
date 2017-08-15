@@ -21,7 +21,7 @@ Might find use in creative minds, tight spaces, repetitive tasks, and geeky watc
 
 z:1 notation is base 60, lining everything up nicely with the alpha-numeric characters:
 
-        zero is 'z'
+            zero is 'z'
         'a' through 'y' is 1-25
         'A' through 'Y' is 26-50
         '9' through '1' is 51-59 (minutes only: 'nine minutes to' through 'one minute to')
