@@ -24,7 +24,7 @@ Z1 Notation is base 60, lining everything up nicely with the alpha-numeric chara
         'a' through 'y' is 1-25
          Zero is 'z'
         'A' through 'Y' is 26-50
-         51 is '9', 59 is '1' (minutes only: 'nine minutes to' and 'one minute to')
+         '9' through '1' is 51-59 (minutes only: 'nine minutes to' through 'one minute to')
  
 
 
