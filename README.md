@@ -15,11 +15,11 @@ Might find use in creative minds, tight spaces, repetitive tasks, and geeky watc
 
  
 
-### z1 NOTATION
+### z:1 NOTATION
 
  
 
-z1 Notation is base 60, lining everything up nicely with the alpha-numeric characters:
+z:1 notation is base 60, lining everything up nicely with the alpha-numeric characters:
 
         'a' through 'y' is 1-25
          Zero is 'z'
